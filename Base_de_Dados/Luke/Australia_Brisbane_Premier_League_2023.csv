@@ -1,7 +1,0 @@
-Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_BTTS_Yes,0x0,0x1,0x2,0x3,1x0,1x1,1x2,1x3,2x0,2x1,2x2,2x3,3x0,3x1,3x2,3x3,Goleada_H,Goleada_A
-1,Australia Brisbane Premier League,2023,2023-03-04 04:00:00,1,Pine Hills,Redcliffe PCYC,4,0,4,"['-1', '-1', '-1', '-1']",[],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-2,Australia Brisbane Premier League,2023,2023-03-04 04:00:00,1,Newmarket,Western Spirit,1,3,4,['-1'],"['-1', '-1', '-1']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-3,Australia Brisbane Premier League,2023,2023-03-04 05:00:00,1,North Pine,Centenary Stormers,0,4,4,[],"['-1', '-1', '-1', '-1']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-4,Australia Brisbane Premier League,2023,2023-03-04 05:00:00,1,Bayside United,Mt Gravatt,1,1,2,['-1'],['-1'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-5,Australia Brisbane Premier League,2023,2023-03-04 05:00:00,1,North Brisbane,Univ. Queensland,2,3,5,"['-1', '-1']","['-1', '-1', '-1']",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-6,Australia Brisbane Premier League,2023,2023-03-05 05:00:00,1,Virginia United,Acacia Ridge,1,0,1,['-1'],[],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,7 +1,0 @@
-Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_BTTS_Yes,0x0,0x1,0x2,0x3,1x0,1x1,1x2,1x3,2x0,2x1,2x2,2x3,3x0,3x1,3x2,3x3,Goleada_H,Goleada_A
-1,Uruguay Segunda División,2023,2023-03-04 17:00:00,1,Oriental,Sud América,1,0,1,['55'],[],2.75,3.2,2.3,2.3,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-2,Uruguay Segunda División,2023,2023-03-04 17:00:00,1,Albion,Rampla Juniors,2,0,2,"['83', '90+5']",[],1.73,3.4,4.2,2.1,1.94,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-3,Uruguay Segunda División,2023,2023-03-04 17:00:00,1,Juventud,Cerrito,3,0,3,"['22', '90+1', '90+5']",[],3.4,3.1,2.0,2.3,1.98,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-4,Uruguay Segunda División,2023,2023-03-04 21:50:00,1,Uruguay Montevideo FC,Progreso,0,1,1,[],['79'],2.2,3.1,2.9,2.2,1.93,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-5,Uruguay Segunda División,2023,2023-03-05 21:50:00,1,Bella Vista,Miramar Misiones,1,1,2,['45+5'],['45'],2.4,3.0,2.75,2.4,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-6,Uruguay Segunda División,2023,2023-03-06 17:00:00,1,Potencia,Rentistas,1,1,2,['31'],['90+3'],3.03,3.21,2.11,1.83,1.83,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
